@@ -1,0 +1,136 @@
+{
+  "projects": [
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "name": "Projeto teste",
+      "budget": "5000",
+      "costs": 3,
+      "services": [
+        {
+          "name": "teste3",
+          "cost": "1",
+          "description": "teste3",
+          "id": "9c7e3203-4541-4923-8c74-aeb329cb573e"
+        }
+      ],
+      "id": 1,
+      "cost": null
+    },
+    {
+      "name": "Projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "costs": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Projeto Novo",
+      "budget": "8000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "costs": 80,
+      "services": [
+        {
+          "name": "novo serviço",
+          "cost": "80",
+          "description": "teste",
+          "id": "3696dbae-058b-49ee-9033-cd70a93f8492"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "teste3",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "costs": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "name": "novo proj 2",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "costs": 3822,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "12",
+          "description": "rrrr",
+          "id": "452ee29e-2a49-4291-a350-e14d5b1430d5"
+        },
+        {
+          "name": "teste",
+          "cost": "1221",
+          "description": "fffdfd",
+          "id": "0f3b70ec-f868-427e-8515-c35767c61b93"
+        },
+        {
+          "name": "teste4",
+          "cost": "1221",
+          "description": "fffdfd",
+          "id": "a88ca91c-f6e2-4db7-8a7d-44c7ac9a029e"
+        },
+        {
+          "name": "teste 5",
+          "cost": "100",
+          "description": "fdfgdgdf",
+          "id": "8d234c26-6b6f-4bc4-b672-16d86f4c46ec"
+        },
+        {
+          "name": "teste 3",
+          "cost": "100",
+          "description": "fdfgdgdf",
+          "id": "3b18303a-7625-4925-afe5-4a5f85099484"
+        },
+        {
+          "name": "teste 7",
+          "cost": "22",
+          "description": "1fdsf",
+          "id": "76aa2d1e-af1a-4a21-b353-e54671a21db2"
+        },
+        {
+          "name": "teste 8",
+          "cost": "225",
+          "description": "1fdsfdfghdf",
+          "id": "26be4979-e376-49e3-9854-9cd83f12b199"
+        }
+      ],
+      "id": 10,
+      "cost": null
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
